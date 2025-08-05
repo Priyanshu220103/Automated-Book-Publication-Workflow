@@ -1,14 +1,14 @@
 {
   "ids": [
-    "v_a9faed7f",
-    "v_aba18a9b",
-    "v_69c30b48"
+    "v_10fbefe8",
+    "v_3b731ac4",
+    "v_0a903e58"
   ],
   "embeddings": null,
   "documents": [
-    " The Gates of Morning is written by Henry De Vere Stacpoole . The novel is based on a novel by\u00a0Henry De V\u00e8re Stacpolle, a book by Robert Leighton-Smith . Review the following summary for clarity, grammar, and conciseness .",
-    " The Gates of Morning is published by Henry De Vere Stacpoole, Georgina\u00a0Staplia, and is published in Book 1;\u00a0Stellia;\u00a0Scrutopia\u00a0in Spanish, French and Spanish;\u00a0Philippines;\u00a0Europeans;\u00a0Portugal;\u00a0Argentina; .",
-    " The Gates of Morning is published by Henry De Vere Stacpoole . In the book, a strange new figure was sent by the gods to the island of Karolin . It is the tale of a strange stranger sent from the island, an island beautiful as a dream, yet swarming with devils ."
+    " The Gates of Morning is a short novel by Henry De Vere Stacpoole . The story takes place in the fictional world of the island of Palm Tree, a paradise swarming with devils . The book will be published by John Keirley in September 2015, with the publisher\u00a0Keirley .",
+    " The story of a strange new figure sent by the gods . The island of Palm Tree is described as beautiful as a dream, yet swarming with devils . The novel is called \"The Gates Of Morning\" and published by Stac Poole at 874-977, published by Simon Tisdall at the University of Oxford .",
+    " The Gates of Morning is Henry De Vere Stacpoole's novel . The book is available in the UK for purchase on Amazon.com/Gates of Morning . Review the following summary and improve it for clarity, grammar, and conciseness. Make it professional, readable, and retain the original meaning ."
   ],
   "uris": null,
   "included": [
@@ -18,19 +18,19 @@
   "data": null,
   "metadatas": [
     {
-      "version_id": "v_a9faed7f",
-      "reward": 0.3659,
-      "timestamp": "2025-08-05T23:43:28.380078"
+      "version_id": "v_10fbefe8",
+      "reward": 0.4184,
+      "timestamp": "2025-08-06T01:56:54.231131"
     },
     {
-      "reward": 0.3218,
-      "version_id": "v_aba18a9b",
-      "timestamp": "2025-08-05T23:43:37.738256"
+      "version_id": "v_3b731ac4",
+      "reward": 0.3845,
+      "timestamp": "2025-08-06T01:57:09.058495"
     },
     {
-      "version_id": "v_69c30b48",
-      "timestamp": "2025-08-05T23:43:44.884960",
-      "reward": 0.4337
+      "reward": 0.3844,
+      "version_id": "v_0a903e58",
+      "timestamp": "2025-08-06T01:57:18.595109"
     }
   ]
 }
