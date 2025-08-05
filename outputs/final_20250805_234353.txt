@@ -1,0 +1,6 @@
+Generated Summary:
+ The Gates of Morning is published by Henry De Vere Stacpoole . In the book, a strange new figure was sent by the gods to the island of Karolin . It is the tale of a strange stranger sent from the island, an island beautiful as a dream, yet swarming with devils .
+{
+  "status": "Saved",
+  "path": "outputs\\final_20250805_234353.txt"
+}

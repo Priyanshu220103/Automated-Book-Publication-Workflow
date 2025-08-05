@@ -1,0 +1,36 @@
+{
+  "ids": [
+    "v_a9faed7f",
+    "v_aba18a9b",
+    "v_69c30b48"
+  ],
+  "embeddings": null,
+  "documents": [
+    " The Gates of Morning is written by Henry De Vere Stacpoole . The novel is based on a novel by\u00a0Henry De V\u00e8re Stacpolle, a book by Robert Leighton-Smith . Review the following summary for clarity, grammar, and conciseness .",
+    " The Gates of Morning is published by Henry De Vere Stacpoole, Georgina\u00a0Staplia, and is published in Book 1;\u00a0Stellia;\u00a0Scrutopia\u00a0in Spanish, French and Spanish;\u00a0Philippines;\u00a0Europeans;\u00a0Portugal;\u00a0Argentina; .",
+    " The Gates of Morning is published by Henry De Vere Stacpoole . In the book, a strange new figure was sent by the gods to the island of Karolin . It is the tale of a strange stranger sent from the island, an island beautiful as a dream, yet swarming with devils ."
+  ],
+  "uris": null,
+  "included": [
+    "documents",
+    "metadatas"
+  ],
+  "data": null,
+  "metadatas": [
+    {
+      "version_id": "v_a9faed7f",
+      "reward": 0.3659,
+      "timestamp": "2025-08-05T23:43:28.380078"
+    },
+    {
+      "reward": 0.3218,
+      "version_id": "v_aba18a9b",
+      "timestamp": "2025-08-05T23:43:37.738256"
+    },
+    {
+      "version_id": "v_69c30b48",
+      "timestamp": "2025-08-05T23:43:44.884960",
+      "reward": 0.4337
+    }
+  ]
+}
